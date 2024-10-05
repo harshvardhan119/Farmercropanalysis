@@ -19,7 +19,7 @@ This repository contains the backend for the Crop Analysis application, which pr
 - Retrieve ideal growth data for specified crops.
 - Submit daily farmer data for moisture and height measurements.
 - Provide insights through APIs to be consumed by the frontend application.
-
+![alt text](image.png)
 ## Installation
 
 1. **Clone the repository:**
@@ -149,5 +149,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to modify any section according to your project's specifics, especially in the API endpoints where you might need to add or remove based on your actual implementation.
 
 
-![alt text](image.png)
+
 
