@@ -146,3 +146,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **License**: Information about the licensing of the project.
 
 Feel free to modify any section according to your project's specifics, especially in the API endpoints where you might need to add or remove based on your actual implementation.
+
+![alt text](<Screenshot 2024-10-05 133848.png>)
