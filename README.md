@@ -11,6 +11,7 @@ This repository contains the backend for the Crop Analysis application, which pr
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Photo](#Photo)
 
 ## Features
 
@@ -147,4 +148,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to modify any section according to your project's specifics, especially in the API endpoints where you might need to add or remove based on your actual implementation.
 
-![alt text](<Screenshot 2024-10-05 133848.png>)
+
+![alt text](image.png)
+
